@@ -12,7 +12,9 @@ namespace The_first_oop_1
             // b) is a class (Reference Type) Modifying the object through either variable will affect both,
             // as they both point to the same instance.
 
-
+            // Q2
+            // a) Public Fields No Data Validation  Lack of Read-Only Protection
+            // b) Encapsulation & Control  Data Validation   Controlled Access
         }
     }
 }
